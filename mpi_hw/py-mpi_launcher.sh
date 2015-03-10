@@ -1,0 +1,1 @@
+mpiexec -n 50 python mpi_hello.py
